@@ -16,5 +16,6 @@ int main(){
         } 
         }
     printf("\n\nThe maximum of the array is %d\n\n", max);
+    printf("\n\nThis is proof of merger hehe %d\n\n", max);
     return 0;
 }
